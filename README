@@ -1,0 +1,4 @@
+Test CA for experiments. The following files are encrypted using blackbox:
+
+pass.txt - contains the password for "NSS Certificate DB"
+signer.p12 - is the pk12 formatted key signing key. Pin is 12345.
