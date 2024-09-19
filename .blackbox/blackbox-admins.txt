@@ -1,2 +1,3 @@
+jlecuirot@microsoft.com
 jpiotrowski@microsoft.com
 schowdhury@microsoft.com
